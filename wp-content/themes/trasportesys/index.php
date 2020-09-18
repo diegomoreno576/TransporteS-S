@@ -19,7 +19,7 @@
                          
                         <?php the_content(); ?>
 							
-						<a href="" class="btn boton_banner">Ver más</a>
+						<a href="<?php bloginfo('url');?>/index.php/contacto/" class="btn boton_banner">Ver más</a>
                     </div>
                 </div>
           <div class="main-banner-img">
