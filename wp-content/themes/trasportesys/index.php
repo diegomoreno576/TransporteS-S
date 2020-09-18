@@ -19,7 +19,7 @@
                          
                         <?php the_content(); ?>
 							
-						<a href="https://transportesys.cl/contacto" class="btn boton_banner">Ver más</a>
+						<a href="" class="btn boton_banner">Ver más</a>
                     </div>
                 </div>
           <div class="main-banner-img">
